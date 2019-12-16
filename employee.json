@@ -1,0 +1,21 @@
+{
+  "employee" : [
+    {
+      "eid": "101",
+      "ename": "akhil",
+      "type": "analyst",
+      "dob": "2000-10-23",
+      "exp": "1",
+      "doj": "2018-08-11"
+    },
+    {
+      "eid": "102",
+      "ename": "aman",
+      "type": "developer",
+      "dob": "1997-05-19",
+      "exp": "3",
+      "doj": "2017-10-08"
+
+    }
+  ]
+}
